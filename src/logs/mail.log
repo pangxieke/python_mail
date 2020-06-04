@@ -1,0 +1,17 @@
+[2020-04-22 15:32:14] INFO main.py:26 [4593] result={"receivers": "tanglianghao163@163.com", "subject": "online fitting v2 error", "body": "this is body", "subtype": "html"}
+[2020-04-22 15:32:36] INFO main.py:26 [4593] result={"receivers": "tanglianghao163@163.com", "subject": "online fitting v2 error", "body": "this is body", "subtype": "html"}
+[2020-04-22 15:34:03] INFO main.py:26 [4605] result={"receivers": "tanglianghao163@163.com", "subject": "online fitting v2 error", "body": "this is body", "subtype": "html"}
+[2020-04-22 15:34:03] INFO main.py:43 [4605] send mail success, receivers=tanglianghao163@163.com
+[2020-04-22 15:40:17] INFO main.py:27 [4736] result={"receivers": "tanglianghao163@163.com", "subject": "online fitting v2 error", "body": "this is body", "subtype": "html"}
+[2020-04-22 15:46:33] INFO main.py:27 [4824] result={"receivers": "tanglianghao163@163.com", "subject": "online fitting v2 error", "body": "this is body", "subtype": "html"}
+[2020-04-22 15:49:36] INFO mail.py:27 [4889] result={"receivers": "tanglianghao163@163.com", "subject": "online fitting v2 error", "body": "this is body", "subtype": "html"}
+[2020-04-22 15:51:32] INFO mail.py:27 [4934] result={"receivers": "tanglianghao163@163.com", "subject": "online fitting v2 error", "body": "this is body", "subtype": "html"}
+[2020-04-22 15:51:34] INFO mail.py:44 [4934] send mail success, receivers=tanglianghao163@163.com
+[2020-04-22 16:02:42] INFO mail.py:27 [5155] result={"receivers": ["tanglianghao163@163.com", "pangxieke@126.com"], "subject": "online fitting v2 error", "body": "this is body", "subtype": "html"}
+[2020-04-22 16:02:44] INFO mail.py:44 [5155] send mail success, receivers=['tanglianghao163@163.com', 'pangxieke@126.com']
+[2020-04-22 16:04:00] INFO mail.py:27 [5164] result={"receivers": "tanglianghao163@163.com", "subject": "online fitting v2 error", "body": "this is body", "subtype": "html"}
+[2020-04-22 16:04:01] INFO mail.py:44 [5164] send mail success, receivers=tanglianghao163@163.com
+[2020-04-22 16:15:55] INFO mail.py:27 [5383] result={"receivers": "tanglianghao163@163.com", "subject": "online fitting v2 error", "body": "this is body", "subtype": "html"}
+[2020-04-22 16:15:57] INFO mail.py:44 [5383] send mail success, receivers=tanglianghao163@163.com
+[2020-04-22 18:33:02] ERROR mail.py:23 [7865] redis error, status=500, reason=call func=rpop, catch an exception=Error 61 connecting to 192.168.1.18:6379. Connection refused.
+[2020-04-22 18:33:12] ERROR mail.py:23 [7865] redis error, status=500, reason=call func=rpop, catch an exception=Error 61 connecting to 192.168.1.18:6379. Connection refused.
