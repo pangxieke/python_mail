@@ -32,6 +32,6 @@ docker 运行
 ```
 docker run --name mail -d \
     -v /data/services/mail/conf:/usr/src/app/conf \
-	-v /data/logs:/usr/src/app/logs \
-	mail:v1.0
+    -v /data/logs:/usr/src/app/logs \
+    mail:v1.0
 ```
